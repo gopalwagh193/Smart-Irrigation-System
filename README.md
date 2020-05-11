@@ -1,3 +1,3 @@
 # Soil-Moisture-Sensor-with-arduino
 
-Displaying the moisture in soil on Liquid Crystal Display without I2C bus
+Depending on temperature and moisture in the soil the motor is turned on and  off and is also displayed on liquid crystal display without I2C bus
